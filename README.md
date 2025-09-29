@@ -14,7 +14,7 @@ It serves as our **digital home** — showcasing who we are, what we do, and how
 
 🌐 **Live Site:** [https://arfinitynexus.github.io/arfinitynexus](https://arfinitynexus.github.io/arfinitynexus)
 
-🔗 **LinkedIn Page:** [https://linkedin.com/company/arfinitynexus](Arfinity Nexus)
+🔗 **LinkedIn Page:** [https://linkedin.com/company/arfinitynexus](Arfinity_Nexus)
 
 ---
 
