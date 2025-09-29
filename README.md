@@ -13,7 +13,7 @@ This repository hosts the source code for the **official Arfinity Nexus website*
 It serves as our **digital home** — showcasing who we are, what we do, and how we help businesses grow with cutting-edge technology solutions.
 
 🌐 **Live Site:** [https://arfinitynexus.github.io/arfinitynexus](https://arfinitynexus.github.io/arfinitynexus)
-🔗 **LinkedIn Page:** [https://arfinitynexus.github.io/arfinitynexus](Arfinity Nexus)
+🔗 **LinkedIn Page:** [https://arfinitynexus.github.io/arfinitynexus](Arfinity_Nexus)
 
 ---
 
